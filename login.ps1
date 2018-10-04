@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://net.zju.edu.cn/include/auth_action.php" -Method "POST" -Body "action=login&username=316010XXXX&password=XXXXXX&ac_id=3&user_ip=&nas_ip=&user_mac=&save_me=0&ajax=1"
